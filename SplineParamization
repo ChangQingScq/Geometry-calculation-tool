@@ -1,6 +1,7 @@
 % cubic Spline: 
 % https://www.cnblogs.com/tiandsp/p/12232392.html
 
+
 function[re3, rep3, repp3] = splineReparamization(p, n, cornerPt)
 
 %三次均匀b样条
